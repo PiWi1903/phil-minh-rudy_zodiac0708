@@ -144,10 +144,10 @@ $(document).ready(function (e) {
                     [
                         {text: 'Ikaw ay isang matalinong tao at maaaring pumili ng tamang bagay upang magtagumpay. Nahihirapan ka ngayon at gayundin ang hinaharap. Sinusubukan mong magtagumpay ngunit hindi mo magawa.'},
                         {text: "Parang may pumipigil sa iyo na magtagumpay."},
-                        {text: "Nakikita ko ang iyong kinabukasan ay magbabago sa malapit na hinaharap, ang iyong buhay ay magbabago, ikaw ay yumaman at hindi na maghihirap na kasing hirap mo ngayon."},
-                        {text: 'Kaya makinig sa mga bagay na ito para mabago ang iyong buhay.'},
-                        {text: "Ngayong taon yayaman ka kapag nanalo ka sa lotto. At ang masuwerteng numero na makakatulong sa iyong manalo sa lottery ay 8"},
-                        {text: 'Pero hindi lahat kayang manalo sa lotto kaya gagawin kitang lucky charm. Makakatulong ito sa iyo na tumama sa lottery kapag pinagsama sa mga numerong hinuhulaan ko.'},
+                        {text: "Nakita ko ang kinabukasan na magbabago ang buhay mo sa darating na panahon, yumaman ka."},
+                        {text: 'Ngayong taon yayaman ka kapag nanalo ka sa lotto.'},
+                        {text: "Pero hindi lahat kayang manalo sa lotto kaya gagawin kitang lucky charm. Magdadala ito ng suwerte, pera at katanyagan sa iyo. O laging dalhin ito at manalangin"},
+                        {text: 'Tandaan kung wala ang anting-anting na iyon ay hindi mababago ang iyong buhay'},
                         {text: 'Maaaring mabili ang anting-anting na iyon'},
                     ],
                     [
@@ -160,10 +160,10 @@ $(document).ready(function (e) {
                     [
                         {text: 'Ikaw ay isang matalinong tao at maaaring pumili ng tamang bagay upang magtagumpay. Nahihirapan ka ngayon at gayundin ang hinaharap. Sinusubukan mong magtagumpay ngunit hindi mo magawa.'},
                         {text: "Parang may pumipigil sa iyo na magtagumpay."},
-                        {text: "Nakikita ko ang iyong kinabukasan ay magbabago sa malapit na hinaharap, ang iyong buhay ay magbabago, ikaw ay yumaman at hindi na maghihirap na kasing hirap mo ngayon."},
-                        {text: 'Kaya makinig sa mga bagay na ito para mabago ang iyong buhay.'},
-                        {text: "Ngayong taon yayaman ka kapag nanalo ka sa lotto. At ang masuwerteng numero na makakatulong sa iyong manalo sa lottery ay 8"},
-                        {text: 'Pero hindi lahat kayang manalo sa lotto kaya gagawin kitang lucky charm. Makakatulong ito sa iyo na tumama sa lottery kapag pinagsama sa mga numerong hinuhulaan ko.'},
+                        {text: "Nakita ko ang kinabukasan na magbabago ang buhay mo sa darating na panahon, yumaman ka."},
+                        {text: 'Ngayong taon yayaman ka kapag nanalo ka sa lotto.'},
+                        {text: "Pero hindi lahat kayang manalo sa lotto kaya gagawin kitang lucky charm. Magdadala ito ng suwerte, pera at katanyagan sa iyo. O laging dalhin ito at manalangin"},
+                        {text: 'Tandaan kung wala ang anting-anting na iyon ay hindi mababago ang iyong buhay'},
                         {text: 'Maaaring mabili ang anting-anting na iyon'},
                     ],
                     [
